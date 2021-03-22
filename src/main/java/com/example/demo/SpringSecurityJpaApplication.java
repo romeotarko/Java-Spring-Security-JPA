@@ -11,5 +11,4 @@ public class SpringSecurityJpaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityJpaApplication.class, args);
 	}
-
 }
